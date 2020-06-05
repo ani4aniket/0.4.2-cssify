@@ -28,7 +28,7 @@ const formSchema = {
     "grid-tr": { type: "string" },
     "col-gap": { type: "string" },
     "row-gap": { type: "string" },
-    "grid-cs": { type: "number", minimum: 0, maximum: 100 },
+    "grid-cs": { type: "number"},
     "grid-ce": { type: "number" },
     "grid-rs": { type: "number" },
     "grid-re": { type: "number" },
